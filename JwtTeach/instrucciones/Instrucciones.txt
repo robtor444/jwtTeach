@@ -1,0 +1,4 @@
+﻿1 Descargarse Microsoft.AspNetCore.Identity.EntityFrameworkCore
+2 Descargarse Microsoft.AspNetCore.Authentication.JwtBearer
+3 Creamos los dto de respuesta para token y credenciales 
+4 Usuarios Controller creamos
